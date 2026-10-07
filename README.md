@@ -65,7 +65,7 @@ Welcome to the ultimate curated directory of **continuous delivery platforms**, 
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Star Count (Descending)* 🌟
+*Sorted by GitHub Stars_Count (Descending)* 🌟
 
 - **[fastlane](https://github.com/fastlane/fastlane)** [![Stars](https://img.shields.io/github/stars/fastlane/fastlane?style=social&color=white)](https://github.com/fastlane/fastlane/stargazers)  
   **The easiest way to automate building and releasing iOS and Android apps**, MIT licensed. **Automates beta deployment, screenshot generation, code signing, and App Store / Google Play distribution**. 📱 🚀
